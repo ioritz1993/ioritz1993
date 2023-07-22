@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I have a Bachelor of Science in Computing with First Class Honours and a Master's Degree in Computer Security (Specialization in Industrial Cybersecurity and Data Protection)
+
 <!--
 **ioritz1993/ioritz1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
