@@ -1,18 +1,21 @@
-### Hello everyone! 👋
+# 👋 Hi, I'm Ioritz
 
-I am Ioritz, and I'm pleased to welcome you to my GitHub profile. Let me share a bit about my academic background and my passion for computer security. 🔒
+Higher Technical Degree in Cross-Platform Application Development, Bachelor's in Computer Science and Master's in Cybersecurity, specializing in industrial cybersecurity and data protection.
 
-I hold a Higher Degree in Multiplatform Application Development 📱, where I acquired skills to create versatile and functional applications on different platforms, allowing me to understand the significance of technological innovation in our daily lives. 💡
+I'm passionate about cybersecurity. I enjoy GRC, as well as the technical side of both offensive and defensive security, and on this profile you'll find tools, notes and projects from all these areas.
 
-Furthermore, I achieved a Bachelor of Science in Computing with First Class Honours 🎓. Throughout this program, I honed my programming skills and expanded my knowledge in various computer languages and concepts. 💻
+## 🎓 Certifications
 
-Subsequently, I specialized in Computer Security and earned a Master's Degree in Computer Security with a focus on Industrial Cybersecurity and Data Protection. This experience ignited my passion for cybersecurity and safeguarding critical information in industrial environments. 🔐
+- OSCP+ (OffSec Certified Professional Plus)
+- OSCP (OffSec Certified Professional)
+- OSWA (OffSec Web Assessor)
+- KLCP (Kali Linux Certified Professional)
+- OSWP (OffSec Wireless Professional)
+- eJPT (eLearnSecurity Junior Penetration Tester)
 
-In my GitHub profile, you will find projects related to computer security and my dedication to protecting data integrity and confidentiality in the digital world. You will also find projects related to programming, as well as other topics that contribute to fostering innovation and technological advancement. I am thrilled to share my work and collaborate with the developer community to create effective and secure solutions in the field of computer science. 🚀
+## 📫 Contact
 
-I am excited to collaborate on challenging projects and learn alongside the GitHub community. Let's build a secure and innovative digital future together! 🌟
+- LinkedIn: [ioritz-urrestarazu-simon](https://www.linkedin.com/in/ioritz-urrestarazu-simon)
+- Email: [ioritz.urrestarazu.simon@gmail.com](mailto:ioritz.urrestarazu.simon@gmail.com)
 
-Thank you for visiting my profile!
-
-LinkedIn: https://www.linkedin.com/in/ioritz-urrestarazu-simon <br>
-Email: ioritz.urrestarazu.simon@gmail.com
+*All content is for educational purposes and for use in authorized environments only.*
